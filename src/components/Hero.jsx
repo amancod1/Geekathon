@@ -4,7 +4,8 @@ const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col '>
       <nav className='flex justify-between items-center w-full mb-10 pt-4'>
-        <img  alt='Tex-Sum' className='w-28 object-contain' />
+        <span style={{ fontSize: '1.5rem', fontWeight: 'bold', color: '#333' }}>Tex-Sum</span>
+
       
       </nav>
 
